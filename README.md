@@ -4,7 +4,7 @@
 
 Saí da praia para buscar experiência na minha área, prefiro dias de chuva e gosto de resolver problemas. :smiling_face_with_three_hearts:
 
-Minha lista de hobbies é enorme, e a maioria deles é 4fun total. Sou dev, boxeador, piloto, DM, músico, gamer, foo, bar. A única parada que se destacou e virou profissão são os códigos mesmo. Eu nunca sei como anda meu Github, mas se você quiser saber _de verdade_ o que eu ando codando, ou ver o lado privado dele, pode chamar em qualquer rede social ([@giovanenott](https://twitter.com/giovanenott)) aí que a gente convesa. 
+Minha lista de hobbies é enorme, e a maioria deles é 4fun total. Sou dev, boxeador, piloto, DM, músico, gamer, foo, bar. A única parada que se destacou e virou profissão são os códigos mesmo. Eu nunca sei como anda meu Github, mas se você quiser saber _de verdade_ o que eu ando codando, ou ver o lado privado dele, pode chamar em qualquer rede social ([@giovanenott](https://twitter.com/giovanenott)) aí que a gente conversa. 
 
 
 
