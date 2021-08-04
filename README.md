@@ -9,7 +9,7 @@ I left the beach to find experience, I would rather rainy days and I like to sol
 - :facepunch: I love boxing
 
 - 📫 How to reach me: 
-  - :link: [/in/giovanenolink](https://https://www.linkedin.com/in/giovanenolink/)
+  - :link: [/in/giovanenolink](https://www.linkedin.com/in/giovanenolink/)
 
 
 Obs: I never _really know_ how things are going here, sorry, call me for a coffee.
