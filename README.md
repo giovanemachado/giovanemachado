@@ -13,7 +13,12 @@ I left the beach to find experience, I would rather rainy days and I like to sol
 - 📫 How to reach me: 
   - :link: [Linkedin](https://www.linkedin.com/in/giovanenolink/)
 
-![an gif, of a Starcraft2 Siege Tank sieged and shooting to the air.](https://giffiles.alphacoders.com/209/209294.gif)
+
+Keep your tanks sieged!
+
+![an gif, of a Starcraft2 Siege Tank sieged and shooting to the air.](https://c.tenor.com/woshcx-md-gAAAAS/siege-tank-starcraft2.gif)
 
 
+
+---
 Obs: I never _really know_ how things are going here, sorry, call me for a coffee.
