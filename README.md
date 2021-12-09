@@ -4,17 +4,25 @@
 I left the beach to find experience, I would rather rainy days and I like to solve problems.
 
 
-- 🌱 I’m currently learning:
-  - Node JS and its friends.
-  - C# (for Unity purposes)
-- :video_game: My favorite game right now is ✨ Starcraft 2 ✨ (:medal_military: Better ranking *till now*: Plat 2).
-- :facepunch: I love boxing.
+:man_technologist: I’m currently working with:
+  - NodeJS (+ Typescript)
+    - Serverless
+    - NextJS
+  - MongoDB
+  - A bunch of AWS crazy technologies
+ 
+:books: I’m currently learning:
+  - Game design (it's kind weird put this here, but you can say that I'm alone trying to create some cool games)
+  - C# (for the above purposes)
 
-- 📫 How to reach me: 
+:video_game: My favorite game right now is ✨ Age Of Empires IV ✨ (:medal_military: Better ranking *till now*: Undefined).
+:facepunch: I love boxing.
+
+📫 How to reach me: 
   - :link: [Linkedin](https://www.linkedin.com/in/giovanenolink/)
 
 
-Keep your tanks sieged!
+**Keep your tanks sieged!**
 
 ![an gif, of a Starcraft2 Siege Tank sieged and shooting to the air.](https://c.tenor.com/woshcx-md-gAAAAS/siege-tank-starcraft2.gif)
 
