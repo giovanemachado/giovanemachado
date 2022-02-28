@@ -1,6 +1,7 @@
 ![an illustration, of a cute cat wearing a Starcraft2 Marine suit.](https://c4.wallpaperflare.com/wallpaper/496/485/161/starcraft-cat-hd-wallpaper-preview.jpg)
 
 # Sup?
+
 I left the beach to find experience, I would rather rainy days and I like to solve problems.
 
 ---
@@ -12,12 +13,15 @@ I left the beach to find experience, I would rather rainy days and I like to sol
   - MongoDB
   - A bunch of AWS crazy technologies
  
+---
+
 :books: I’m currently learning:
   - Game design (it's kind weird put this here, but you can say that I'm alone trying to create some cool games)
   - Unity
   - C# (for the above purposes)
-
+ 
 ---
+
 :love_you_gesture: Random things about me:
   - :video_game: My favorite game right now is ✨ Age Of Empires IV ✨ (:medal_military: Better ranking: rank #300 South America).
   - :facepunch: I love boxing.
@@ -27,6 +31,7 @@ I left the beach to find experience, I would rather rainy days and I like to sol
 📫 You can to reach me at [Linkedin](https://www.linkedin.com/in/giovanenolink/)
 
 [![my linkedin profile](https://c.tenor.com/KOki-OrS24AAAAAC/linkedin.gif)](https://www.linkedin.com/in/giovanenolink/)
+
 ---
 
 **Keep your tanks sieged!**
