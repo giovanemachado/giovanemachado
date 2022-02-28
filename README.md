@@ -14,6 +14,7 @@ I left the beach to find experience, I would rather rainy days and I like to sol
  
 :books: I’m currently learning:
   - Game design (it's kind weird put this here, but you can say that I'm alone trying to create some cool games)
+  - Unity
   - C# (for the above purposes)
 
 ---
@@ -25,8 +26,7 @@ I left the beach to find experience, I would rather rainy days and I like to sol
 
 📫 You can to reach me at [Linkedin](https://www.linkedin.com/in/giovanenolink/)
 
-![linkedin logo](https://c.tenor.com/KOki-OrS24AAAAAC/linkedin.gif)
-
+[![my linkedin profile](https://c.tenor.com/KOki-OrS24AAAAAC/linkedin.gif)](https://www.linkedin.com/in/giovanenolink/)
 ---
 
 **Keep your tanks sieged!**
