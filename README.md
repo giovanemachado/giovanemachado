@@ -2,9 +2,16 @@
 
 # Sup?
 
-I left the beach to find experience, I would rather rainy days and I like to solve problems.
+I left the beach to find experience, would rather rainy days and like to solve problems.
 
----
+<br>
+<div display="flex">
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giovanemachado&theme=tokyonight"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovanemachado&show_icons=true&theme=tokyonight&include_all_commits=true"/> 
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giovanemachado&theme=tokyonight"/> 
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=giovanemachado&theme=tokyonight&utcOffset=8"/> 
+</div>
+<br>
 
 :man_technologist: I’m currently working with:
   - NodeJS (+ Typescript)
@@ -13,29 +20,30 @@ I left the beach to find experience, I would rather rainy days and I like to sol
   - MongoDB
   - A bunch of AWS crazy technologies
  
----
+<br>
 
 :books: I’m currently learning:
   - Game design (it's kind weird put this here, but you can say that I'm alone trying to create some cool games)
   - Unity
   - C# (for the above purposes)
- 
----
+
+<br>
 
 :love_you_gesture: Random things about me:
-  - :video_game: My favorite game right now is ✨ Age Of Empires IV ✨ (:medal_military: Better ranking: rank #300 South America).
+  - :video_game: My favorite game right now is ✨ Age Of Empires IV ✨ (:medal_military: Better ranking: Plat 2).
   - :facepunch: I love boxing.
 
----
+<br>
 
-📫 You can to reach me at [Linkedin](https://www.linkedin.com/in/giovanenolink/)
 
-[![my linkedin profile](https://c.tenor.com/KOki-OrS24AAAAAC/linkedin.gif)](https://www.linkedin.com/in/giovanenolink/)
+📫 You can to reach me at: 
+
+<a href="https://www.linkedin.com/in/giovanenolink/">
+  <img src="https://img.shields.io/badge/Linkedin-%2Fin%2Fgiovanenolink-blue?style=for-the-badge&logo=appveyor">
+</a>
 
 ---
 
 **Keep your tanks sieged!**
 
 ![an gif, of a Starcraft2 Siege Tank sieged and shooting to the air.](https://c.tenor.com/woshcx-md-gAAAAS/siege-tank-starcraft2.gif)
-
-Obs: I never _really know_ how things are going here, sorry, call me for a coffee.
