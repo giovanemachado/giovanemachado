@@ -7,7 +7,7 @@ I left the beach to find experience, would rather rainy days and like to solve p
 <br>
 <div display="flex">
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giovanemachado&theme=tokyonight"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovanemachado&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/> 
+  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovanemachado&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/> -->
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giovanemachado&theme=tokyonight"/> 
 </div>
 
