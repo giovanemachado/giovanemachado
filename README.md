@@ -7,25 +7,20 @@ I left the beach to find experience, would rather rainy days and like to solve p
 <br>
 <div display="flex">
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giovanemachado&theme=tokyonight"/> 
-  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovanemachado&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/> -->
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giovanemachado&theme=tokyonight"/> 
 </div>
 
 ### :man_technologist: I’m currently working with:
-  - NodeJS (+ Typescript)
-    - Serverless
-    - NextJS
-  - MongoDB
-  - A bunch of AWS crazy technologies
+  - NodeJS
+    - NestJS + Typescript
+  - React Native
  
 ### :books: I’m currently learning:
-  - Game design (it's kind weird put this here, but you can say that I'm alone trying to create some cool games)
-  - Unity
-  - C# (for the above purposes)
+  - Godot + GDScript
 
 ### :love_you_gesture: Random things about me:
-  - :video_game: My favorite game right now is ✨ Age Of Empires IV ✨ (:medal_military: Better ranking: Plat 2).
-  - :facepunch: I love boxing.
+  - :video_game: My favorite game right now is ✨ Valorant ✨ (:medal_military: Better ranking: Diamond 2).
+  - :facepunch: I love boxing!
 
 ### 📫 You can to reach me at: 
 
@@ -43,4 +38,4 @@ I left the beach to find experience, would rather rainy days and like to solve p
 
 **Keep your tanks sieged!**
 
-![an gif, of a Starcraft2 Siege Tank sieged and shooting to the air.](https://c.tenor.com/woshcx-md-gAAAAS/siege-tank-starcraft2.gif)
+![a gif, of a Starcraft2 Siege Tank sieged and shooting to the air.](https://c.tenor.com/woshcx-md-gAAAAS/siege-tank-starcraft2.gif)
