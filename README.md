@@ -1,8 +1,8 @@
 ![an illustration, of a cute cat wearing a Starcraft2 Marine suit.](https://c4.wallpaperflare.com/wallpaper/496/485/161/starcraft-cat-hd-wallpaper-preview.jpg)
 
-# Sup?
+# Hey!
 
-I left the beach to find experience, would rather rainy days and like to solve problems.
+I've been a developer for a few years, motivated to work on large and meaningful projects, but even more so to keep my family well. My greatest strength is my clear and easily understandable communication, which enables me to get the necessary help for any task and foster greater team engagement.
 
 <br>
 <div display="flex">
@@ -16,23 +16,25 @@ I left the beach to find experience, would rather rainy days and like to solve p
   - React Native
  
 ### :books: I’m currently learning:
+  - Ruby and Rails
   - Godot + GDScript
 
-### :love_you_gesture: Random things about me:
-  - :video_game: My favorite game right now is ✨ Valorant ✨ (:medal_military: Better ranking: Diamond 2).
-  - :facepunch: I love boxing!
-
-### 📫 You can to reach me at: 
+### 📫 You can reach me at: 
 
 <a href="https://www.linkedin.com/in/giovanenolink/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-### :joystick: You can to play my games at: 
+### :joystick: You can play my games at: 
 
 <a href="https://giovanemachado.itch.io/">
   <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white">
 </a>
+
+### :love_you_gesture: Random things about me:
+  - :video_game: My favorite game right now is ✨ AOE4 ✨ (:medal_military: Better ranking: Platinum 2).
+  - :facepunch: I love boxing!
+  - 🐶 I have 3 dogs, all street rescued <3
 
 ---
 
