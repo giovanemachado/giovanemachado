@@ -1,43 +1,34 @@
-![an illustration, of a cute cat wearing a Starcraft2 Marine suit.](https://c4.wallpaperflare.com/wallpaper/496/485/161/starcraft-cat-hd-wallpaper-preview.jpg)
+![uma cachorrinha, chamada tralha, que mora comigo / a dog, called tralha, who lives with me](https://giovanemachado.github.io/tralha.jpeg)
 
-# Hey!
 
-I've been a developer for a few years, motivated to work on large and meaningful projects, but even more so to keep my family well. My greatest strength is my clear and easily understandable communication, which enables me to get the necessary help for any task and foster greater team engagement.
-
-<br>
-<div display="flex">
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giovanemachado&theme=tokyonight"/> 
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giovanemachado&theme=tokyonight"/> 
+<p>
+    hey, I've been a fullstack engineer since 2019, and like to spend free time with my family or playing
+    games.
+    I live in a small town in santa catarina, brazil, and have always worked remotely.
+</p>
+<p>
+    my professional experience includes working with startups from various fields (both in brazil and the
+    usa),
+    developing web and mobile applications. besides that, I'm also an aspiring game dev/designer.
+</p>
+<br />
+<div>
+    <span>my stack:</span>
+    <ul>
+        <li>javascript (always with typescript)</li>
+        <li>react for frontend</li>
+        <li>nest for backend</li>
+        <li>godot (with gdscript) for games</li>
+    </ul>
 </div>
-
-### :man_technologist: I’m currently working with:
-  - NodeJS
-    - NestJS + Typescript
-  - React Native
- 
-### :books: I’m currently learning:
-  - Ruby and Rails
-  - Godot + GDScript
-
-### 📫 You can reach me at: 
-
-<a href="https://www.linkedin.com/in/giovanenolink/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-### :joystick: You can play my games at: 
-
-<a href="https://giovanemachado.itch.io/">
-  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white">
-</a>
-
-### :love_you_gesture: Random things about me:
-  - :video_game: My favorite game right now is ✨ AOE4 ✨ (:medal_military: Better ranking: Platinum 2).
-  - :facepunch: I love boxing!
-  - 🐶 I have 3 dogs, all street rescued <3
-
----
-
-**Keep your tanks sieged!**
-
-![a gif, of a Starcraft2 Siege Tank sieged and shooting to the air.](https://c.tenor.com/woshcx-md-gAAAAS/siege-tank-starcraft2.gif)
+<br />
+<div>
+    <span>links to reach me/see my work:</span>
+    <ul>
+        <li><a href="https://giovanemachado.github.io/">giovanemachado.github.io</a></li>
+        <li><a href="https://www.linkedin.com/in/giovanenolink">linkedin.com/in/giovanenolink</a></li>
+        <li><a href="https://github.com/giovanemachado">github.com/giovanemachado</a>
+        </li>
+        <li><a href="https://giovanemachado.itch.io/">giovanemachado.itch.io</a></li>
+    </ul>
+</div>
