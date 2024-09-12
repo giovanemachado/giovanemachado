@@ -1,4 +1,4 @@
-![uma cachorrinha, chamada tralha, que mora comigo / a dog, called tralha, who lives with me](https://giovanemachado.github.io/tralha.jpeg)
+![uma cachorrinha, chamada tralha, que mora comigo / a dog, called tralha, who lives with me](https://giovanemachado.github.io/stuff/tralha.jpeg)
 
 
 <p>
