@@ -5,6 +5,6 @@
     <ul>
         <li><a href="https://giovanemachado.github.io/">giovanemachado.github.io</a></li>
         <li><a href="https://www.linkedin.com/in/giovanenolink">linkedin.com/in/giovanenolink</a></li>
-        <li><a href="https://routeteamstudio.itch.io">routeteamstudio.itch.io</a></li>
+        <li><a href="https://sangue1.itch.io">sangue1.itch.io</a></li>
     </ul>
 </div>
