@@ -1,4 +1,4 @@
-![uma cachorrinha, chamada tralha, que mora comigo / a dog, called tralha, who lives with me](https://giovanemachado.github.io/stuff/tralha.jpeg)
+![tralha, my love](https://giovanemachado.github.io/assets/tralha.jpeg)
 
 <div>
     <span>links to contact me/see my work:</span>
